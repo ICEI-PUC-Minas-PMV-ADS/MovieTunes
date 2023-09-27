@@ -1,23 +1,26 @@
-# TÍTULO DO PROJETO
+# MovieTunes-Filmes e Trilhas Sonoras
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Projeto: Desenvolvimento de uma Aplicação Distribuída`
 
-`SEMESTRE`
+`Quarto Semestre`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Sistema de integração Web e Mobile com o Objetivo de mostrar filmes e sua trilha sonora. Um exemplo é o Filme Titanic, que terá exposto a música My Heart Will Go On canção de Céline Dion .
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Josyane Luiza Cupertino de Oliveira
+* Nathália Liberato de Abreu
+* Fabio Furlan Cavalcante
+* Rafael Pacheco Leite
+* Sávio Andrade Roquette
+* Thiago Henrique Pinto da Silva
+* Vinicio Machado Muniz de Morais
 
 ## Orientador
 
-* Nome completo do professor 1
+* Pedro Felipe Alves de Oliveira
 
 ## Instruções de utilização
 
