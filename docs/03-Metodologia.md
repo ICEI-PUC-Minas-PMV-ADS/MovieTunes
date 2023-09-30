@@ -11,7 +11,7 @@ Ambiente  | Plataforma  | Link de Acesso
 --------- | ----------- | ---------------
 Repositório de código fonte  | GitHub  | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t6-movietunes
 Documentos do projeto        | GitHub  | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t6-movietunes/tree/main/docs
-Projeto de Interface e  Wireframes | MarvelApp  | https://marvelapp.com/prototype/5ee8e90
+Projeto de Interface e  Wireframes | Miro  | https://miro.com/pt/
 Gerenciamento do Projeto  | GitHub  | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t6-movietunes
 
 
@@ -19,7 +19,7 @@ Gerenciamento do Projeto  | GitHub  | https://github.com/ICEI-PUC-Minas-PMV-ADS/
 
 O projeto utiliza um design de fluxo de trabalho baseado no lucidchart, mostrado na Figura a seguir:
 
-![image](img\controle_versao.png)
+![image](img\versao.png)
 
 O projeto segue a seguinte convenção para o nome de branches:
 
