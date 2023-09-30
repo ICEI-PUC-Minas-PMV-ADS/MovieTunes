@@ -1,9 +1,7 @@
 
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
-
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+A metodologia contempla as ferramentas utilizadas pela manutenção dos recursos e demais recursos quanto à organização do tempo e execução das tarefas do projeto.
 
 ## Relação de Ambientes de Trabalho
 
@@ -21,7 +19,7 @@ Gerenciamento do Projeto  | GitHub  | https://github.com/ICEI-PUC-Minas-PMV-ADS/
 
 O projeto utiliza um design de fluxo de trabalho baseado no lucidchart, mostrado na Figura a seguir:
 
-![Exemplo de Diagrama de Fluxo](img/diagramafluxo2.jpg)
+![image](\img\controle_versao.png)
 
 O projeto segue a seguinte convenção para o nome de branches:
 
@@ -55,7 +53,7 @@ Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum 
 - Scrum Master: Josyane Luiza Cupertino de Oliveira;
 - Product Owner: Pedro Felipe Alves de Oliveira;
 - Equipe de Desenvolvimento: Fabio Furlan, Josyane Luiza, Rafael Pacheco, Savio Andrade, Nathalia Liberato, Thiago Henrique;
-- Equipe de Design: Fabio Furlan, Josyane Luiza.
+- Equipe de Design: Rafael Pacheco, Fabio Furlan.
 
 ### Processo
 
@@ -69,5 +67,5 @@ As ferramentas empregadas no projeto são:
 | ------------- | ------------ | ---------- |
 | Codificação | VsCode | https://code.visualstudio.com//
 | Comunicação | Whatsapp | https://web.whatsapp.com/
-| Prototipagem de Telas | Figma | https://www.figma.com/
+| Prototipagem de Telas | Miro | https://miro.com/pt/
 | Repositório e Versionamento de código | Git | https://github.com/
