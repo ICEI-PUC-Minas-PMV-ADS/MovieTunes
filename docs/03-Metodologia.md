@@ -19,7 +19,7 @@ Gerenciamento do Projeto  | GitHub  | https://github.com/ICEI-PUC-Minas-PMV-ADS/
 
 O projeto utiliza um design de fluxo de trabalho baseado no lucidchart, mostrado na Figura a seguir:
 
-![image](\img\controle_versao.png)
+![image](img\controle_versao.png)
 
 O projeto segue a seguinte convenção para o nome de branches:
 
