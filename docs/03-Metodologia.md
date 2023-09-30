@@ -9,10 +9,10 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 
 Ambiente  | Plataforma  | Link de Acesso
 --------- | ----------- | ---------------
-Repositório de código fonte  | GitHub  | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t6-movietunes
-Documentos do projeto        | GitHub  | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t6-movietunes/tree/main/docs
+Repositório de código fonte  | GitHub  | https://github.com/ICEI-PUC-Minas-PMV-ADS/MovieTunes
+Documentos do projeto        | GitHub  | https://github.com/ICEI-PUC-Minas-PMV-ADS/MovieTunes/tree/main/docs
 Projeto de Interface e  Wireframes | Miro  | https://miro.com/pt/
-Gerenciamento do Projeto  | GitHub  | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t6-movietunes
+Gerenciamento do Projeto  | GitHub  | https://github.com/ICEI-PUC-Minas-PMV-ADS/MovieTunes/blob/main/docs/03-Metodologia.md
 
 
 ## Controle de Versão
@@ -51,7 +51,7 @@ Apresente a divisão de papéis entre os membros do grupo.
 
 Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
 - Scrum Master: Josyane Luiza Cupertino de Oliveira;
-- Product Owner: Pedro Felipe Alves de Oliveira;
+- Product Owner:Thiago Henrique ;
 - Equipe de Desenvolvimento: Fabio Furlan, Josyane Luiza, Rafael Pacheco, Savio Andrade, Nathalia Liberato, Thiago Henrique;
 - Equipe de Design: Rafael Pacheco, Fabio Furlan.
 
